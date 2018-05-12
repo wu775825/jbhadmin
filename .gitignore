@@ -44,4 +44,7 @@ dist/
 # jhbadmin
 runtime/
 uploads/
+<<<<<<< HEAD
 addons/
+=======
+>>>>>>> dev
