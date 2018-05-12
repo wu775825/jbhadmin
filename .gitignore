@@ -42,4 +42,6 @@ bower_components/
 dist/
 
 # jhbadmin
-runtime/ 
+runtime/
+uploads/
+addons/
